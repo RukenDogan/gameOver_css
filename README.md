@@ -1,7 +1,7 @@
 # Animation de texte rétro en CSS
 
 ## Description
-Ancien projet d'animation de texte en CSS (circa 2019).  
+Ancien projet d'animation de texte en CSS (réalisé en 2019).  
 Ce projet applique une animation rétro à deux lignes de texte à l'aide de `@keyframes`, avec un effet de zoom et de variation d'espacement.
 
 ## Technologies utilisées
