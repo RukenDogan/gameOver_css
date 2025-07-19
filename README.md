@@ -23,4 +23,4 @@ Simple mais efficace pour comprendre la base des animations et des effets typogr
 
 ## Démo
 
-👉 [Voir la démo sur GitHub Pages](https://github.com/RukenDogan/gameOver_css.git)
+👉 [Voir la démo sur GitHub Pages](https://rukendogan.github.io/gameOver_css/)
